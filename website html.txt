@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BitCetus Pro</title>
+  <!-- Primary Meta Tags -->
+  <meta name="title" content="BitCetus" />
+  <meta name="description"
+    content="The world's leading digital asset trading platform
+    It provides secure, trusted digital asset trading and asset management services to millions of users in more than 100 countries" />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.bitcetusspro.com" />
+  <meta property="og:title" content="BitCetus" />
+  <meta property="og:description"
+    content="The world's leading digital asset trading platform
+    It provides secure, trusted digital asset trading and asset management services to millions of users in more than 100 countries" />
+  <meta property="og:image" content="https://www.bitcetusspro.com/banner.jpg" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://www.bitcetusspro.com" />
+  <meta property="twitter:title" content="BitCetus" />
+  <meta property="twitter:description"
+    content="The world's leading digital asset trading platform
+    It provides secure, trusted digital asset trading and asset management services to millions of users in more than 100 countries" />
+  <meta property="twitter:image" content="https://www.bitcetusspro.com/banner.jpg" />
+
+  <!-- Meta Tags Generated with https://metatags.io -->
+  <script type="module" crossorigin src="/assets/index-5b4e3a81.js"></script>
+  <link rel="stylesheet" href="/assets/index-6b7ede68.css">
+</head>
+
+<body>
+  <div id="root"></div>
+  
+
+
+  <!-- <script src="//code.tidio.co/05t26kvfv9oqt4b1llhak4tioj8kuat1.js" async></script> -->
+
+
+  <!--Start of Tawk.to Script-->
+  <script type="text/javascript">
+    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+    (function () {
+      var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+      s1.async = true;
+      s1.src = 'https://embed.tawk.to/658053d670c9f2407f811563/1hhukevvj';
+      s1.charset = 'UTF-8';
+      s1.setAttribute('crossorigin', '*');
+      s0.parentNode.insertBefore(s1, s0);
+    })();
+  </script>
+  <!--End of Tawk.to Script-->
+
+</body>
+
+</html>
